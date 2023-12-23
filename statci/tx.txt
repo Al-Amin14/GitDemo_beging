@@ -1,0 +1,3 @@
+A quick brown fox jump over the lazy dog
+this is newly added
+this is a command for direct commit
